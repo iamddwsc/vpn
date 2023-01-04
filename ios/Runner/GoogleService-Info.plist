@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>483356747005-b7nnu4f5ud9d2mnr34jq2m23q7hklsdd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.483356747005-b7nnu4f5ud9d2mnr34jq2m23q7hklsdd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>483356747005-30qv8u9vjeicoumqagbh8s2msfu8hjp2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOVlBmsuicsGEPNZQoWIJYxCO2I5tPZ18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>483356747005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.papa.vpn</string>
+	<key>PROJECT_ID</key>
+	<string>vpn-proxy-864ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vpn-proxy-864ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:483356747005:ios:ae62e34500bcd5ee7bca94</string>
+	<key>DATABASE_URL</key>
+	<string>https://vpn-proxy-864ba-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

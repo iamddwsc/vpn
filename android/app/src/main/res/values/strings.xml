@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterVPN</string>
+    <string name="facebook_app_id">783232826344614</string>
+    <string name="fb_login_protocol_scheme">fb783232826344614</string>
+    <string name="facebook_client_token">a2a29220bebb5c019ae0f39079e1875d</string>
+</resources>

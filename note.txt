@@ -1,0 +1,30 @@
+PS D:\Workspace\FlutterProject\PapagroupProject\mobile> flutterfire config
+i Found 3 Firebase projects.
+✔ Select a Firebase project to configure your Flutter application with · vpn-proxy-864ba (VPN Proxy) 
+✔ Which platforms should your configuration support (use arrow keys & space to select)? · android, ios
+i Firebase android app com.papa.vpn registered.
+i Firebase ios app com.papa.vpn registered.
+
+Firebase configuration file lib\firebase_options.dart generated successfully with the following Firebase apps:
+
+Platform  Firebase App Id
+android   1:483356747005:android:f0badbf2b85766a77bca94
+ios       1:483356747005:ios:ae62e34500bcd5ee7bca94
+
+Learn more about using this file and next steps from the documentation:
+ > https://firebase.google.com/docs/flutter/setup
+i Found 3 Firebase projects.
+✔ Select a Firebase project to configure your Flutter application with · vpn-proxy-864ba (VPN Proxy) 
+✔ Which platforms should your configuration support (use arrow keys & space to select)? · android, ios
+i Firebase android app com.papa.vpn registered.
+i Firebase ios app com.papa.vpn registered.
+
+Firebase configuration file lib\firebase_options.dart generated successfully with the following Firebase apps:
+
+Platform  Firebase App Id
+android   1:483356747005:android:f0badbf2b85766a77bca94
+ios       1:483356747005:ios:ae62e34500bcd5ee7bca94
+
+Learn more about using this file and next steps from the documentation:
+ > https://firebase.google.com/docs/flutter/setup
+PS D:\Workspace\FlutterProject\PapagroupProject\mobile>

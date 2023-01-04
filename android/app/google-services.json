@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "483356747005",
+    "firebase_url": "https://vpn-proxy-864ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vpn-proxy-864ba",
+    "storage_bucket": "vpn-proxy-864ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483356747005:android:f0badbf2b85766a77bca94",
+        "android_client_info": {
+          "package_name": "com.papa.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483356747005-30qv8u9vjeicoumqagbh8s2msfu8hjp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papa.vpn",
+            "certificate_hash": "721f61fcc0c80a15ba857f3b348579f5f81b5ffe"
+          }
+        },
+        {
+          "client_id": "483356747005-jag0i1tjk0jovk8v1hlrdllrepvl8u69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papa.vpn",
+            "certificate_hash": "99a43509ec0f5fec78b5286e71bd67e1989467c8"
+          }
+        },
+        {
+          "client_id": "483356747005-oqgj243k8cl73snvqthekhq0vkcs17hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papa.vpn",
+            "certificate_hash": "43db91b8efbc70bd72b9a1c5c334b0eb5a6fadbd"
+          }
+        },
+        {
+          "client_id": "483356747005-ab74uf8cdl5gkskjfhl9409c121ebl1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQQBuTfMsNnBBLUrWyOZIUsgAMzniD0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483356747005-ab74uf8cdl5gkskjfhl9409c121ebl1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483356747005-b7nnu4f5ud9d2mnr34jq2m23q7hklsdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.papa.vpn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

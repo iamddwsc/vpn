@@ -1,0 +1,115 @@
+name: nizvpn
+description: Simple VPN using Platform Channel
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.1.0
+  collection: ^1.15.0
+  device_apps: ^2.2.0
+  device_info: ^2.0.2
+  dio: ^4.0.0
+  easy_localization: ^3.0.0
+  flutter_inapp_purchase: 
+    git:
+      url: https://github.com/mgonzalezc/flutter_inapp_purchase.git
+      ref: fix/mindapps_fix
+  app_tracking_transparency: ^2.0.2+1
+  in_app_review: ^2.0.6
+  in_app_update: ^4.0.1
+  # introduction_screen: ^3.0.0 
+  line_icons: ^2.0.1
+  lottie: ^2.0.0
+  # native_admob_flutter: ^1.5.0
+  ndialog: ^4.1.0
+  package_info: ^2.0.2
+  provider: ^6.0.1
+  pull_to_refresh: ^2.0.0
+  share: ^2.0.4
+  shared_preferences: ^2.0.15
+  shimmer: ^2.0.0
+  snapping_sheet: ^3.1.0
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.5
+  firebase_database: ^10.0.6
+  firebase_crashlytics: ^3.0.6
+  google_fonts: ^3.0.1
+  google_sign_in: ^5.4.2
+  google_mobile_ads: ^2.0.1
+  sign_in_with_apple: ^4.2.0
+  flutter_facebook_auth: ^5.0.6
+  flutter_rating_bar: ^4.0.1
+  dots_indicator: ^2.1.0
+  circular_countdown_timer: ^0.2.2
+  network_info_plus: ^3.0.1
+  permission_handler: ^10.1.0
+  dart_ping: ^7.0.2
+  syncfusion_flutter_charts: ^20.3.59
+  syncfusion_flutter_gauges: ^20.3.59
+  fl_chart: ^0.55.2
+  flutter_internet_speed_test: ^1.1.0
+  flutter_svg: ^1.1.6
+  flutter_vpn: 
+    git:
+      url: https://github.com/iamddwsc/flutter_vpn_dynamic_cert.git
+  regexpattern: ^2.1.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.11.0
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path_android: "assets/icons/logo_android.png"
+  image_path_ios: "assets/icons/logo_ios.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/"
+    - "assets/icons/"
+    - "assets/icons/flags/"
+    - "assets/languages/"
+    - "assets/animations/"
+    - "assets/images/"
+    - "assets/images/splash/"
+    - "assets/images/subcription/"
+    - "assets/images/logo/"
+    - "assets/images/home/"
+    - "assets/images/bottomNav/"
+    - "assets/images/premium/"
+    - "assets/images/setting/"
+    - "assets/images/account/"
+  fonts:
+    - family: NerdVPNIcon
+      fonts:
+        - asset: assets/fonts/NerdVPNIcon.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Inter-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Inter-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-Semibold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Inter-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Inter-Black.ttf
+          weight: 900
+
