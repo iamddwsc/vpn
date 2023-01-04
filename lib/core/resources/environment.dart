@@ -2,8 +2,8 @@ import 'dart:io';
 
 //if you got problems with your endpoint, read FAQ in the docs
 // const String endpoint = "https://nerdvpn.laskarmedia.id"; //<= Replace with yours
-// const String endpoint = 'http://178.128.105.81:80'; //<= Replace with yours
-const String endpoint = 'http://192.168.1.48:80'; //<= Replace with yours
+const String endpoint = 'http://178.128.105.81:80'; //<= Replace with yours
+// const String endpoint = 'http://192.168.1.48:80'; //<= Replace with yours
 
 const String appname = 'MasterVPN';
 
